@@ -22,6 +22,6 @@ LANGCHAIN_API_KEY = "API_KEY_HERE"
 
 ## Example Questions
 <p>
-<img src=[(https://github.com/isabeljohnson001/Document-Ask-GPT/blob/main/qa_results.png)](https://github.com/isabeljohnson001/Document-Ask-GPT/blob/main/qa_results.png)" width="2000"/>
+<img src="https://github.com/isabeljohnson001/Document-Ask-GPT/blob/3093d72e850b995aa4276a1b28031715e1f4d81a/qa_results.png" width="2000"/>
 </br>
 
