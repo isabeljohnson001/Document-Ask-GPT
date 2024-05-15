@@ -1,5 +1,5 @@
 # Question Answering with LangChain and Chroma DB
-This repository contains a Jupyter notebook demonstrating how to perform question answering over documents using LangChain and Chroma DB.For a demonstration of how to perform question answering over documents using Chroma and LangChain, refer to this notebook. For utilizing a persistent database with Chroma and LangChain, consult this notebook.
+This repository contains a Jupyter notebook demonstrating how to perform question answering over documents using LangChain and Chroma DB.For a demonstration of how to perform question answering over documents using Chroma and LangChain, [refer to this notebook](https://github.com/isabeljohnson001/Document-Ask-GPT/blob/main/Chroma_QA_Pairs.ipynb). For utilizing a persistent database with Chroma and LangChain, [see this notebook](https://github.com/isabeljohnson001/Document-Ask-GPT/blob/main/Chroma-Persistent_QA_Pairs.ipynb).
 
 ## Setup
 1. Install the required packages using 
