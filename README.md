@@ -21,5 +21,7 @@ LANGCHAIN_API_KEY = "API_KEY_HERE"
 
 
 ## Example Questions
-"How are democracies responding to the current global challenges, and what does this suggest about the prevailing global sentiment towards peace and security?"
+<p>
+<img src=[(https://github.com/isabeljohnson001/Document-Ask-GPT/blob/main/qa_results.png)](https://github.com/isabeljohnson001/Document-Ask-GPT/blob/main/qa_results.png)" width="2000"/>
+</br>
 
