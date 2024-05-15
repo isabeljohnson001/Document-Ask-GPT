@@ -19,7 +19,7 @@ LANGCHAIN_API_KEY = "API_KEY_HERE"
 
 3. Ensure you have a text file (input.txt) with the documents you want to use for question answering.
 
-Usage
+
 ## Example Questions
 "How are democracies responding to the current global challenges, and what does this suggest about the prevailing global sentiment towards peace and security?"
 
